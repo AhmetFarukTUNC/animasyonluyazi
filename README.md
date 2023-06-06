@@ -1,2 +1,2 @@
 # animasyonluyazi
-Bu projede ü&lt;erine gelindiğinde değişen bir yazı yaptık.
+Bu projede üzerine gelindiğinde değişen bir yazı yaptık.
